@@ -1,0 +1,2 @@
+O Docker é um gerenciador de container
+essa linha foi inserida no Github.
