@@ -1,2 +1,2 @@
-O Docker é um gerenciador de container
-essa linha foi inserida no Github.
+o docker é um gerenciador de containers.
+linha atualziada no ramo1
